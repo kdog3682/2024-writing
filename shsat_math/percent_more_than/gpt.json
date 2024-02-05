@@ -1,0 +1,103 @@
+{
+    "frontmatter": {
+        "source": ""/home/kdog3682/2024-writing/shsat_math/percent_more_than/raw.txt"",
+        "title": "Extra SHSAT Math Practice",
+        "topic": "Percentages",
+        "speakers": ["Michelle", "Alvin", "Hao Xiang"],
+        "instructions": "Follow along as Michelle, Alvin, and Hao Xiang take you through the percentage questions. Do write things down, highlight important information, and work through the practice problems on your own.",
+        "prerequisite": "50% of 60"
+    },
+    "dialogue": [
+        {
+            "speaker": "Alvin",
+            "content": [
+                {"text": "Hi everyone, my name is Alvin!", "type": "self-introduction"}
+            ]
+        },
+        {
+            "speaker": "Michelle",
+            "content": [
+                {"text": "My name is Michelle!", "type": "self-introduction"}
+            ]
+        },
+        {
+            "speaker": "Hao Xiang",
+            "content": [
+                {"text": "And my name is Hao Xiang!", "type": "self-introduction"}
+            ]
+        },
+        {
+            "speaker": "Alvin",
+            "content": [
+                {"text": "Today, we are going to review a percentage question called "more or less than" from the SHSAT. Michelle, please take it away!", "type": "filler"}
+            ]
+        },
+        {
+            "speaker": "Michelle",
+            "content": [
+                {"text": "Aye Matey! here is the question."},
+                {
+                    "question": [
+                        {"text": "Ham bakes 50% more cookies than Sam.", "type": "math-question", "visual": "pie-chart-cookie-distribution"},
+                        {"text": "If Sam bakes 150 cookies, how many cookies do they bake together?", "type": "math-question", "visual": "pie-chart-cookie-distribution"}
+                    ],
+                    "answer": "375 cookies",
+                    "choices": ["225 cookies", "300 cookies", "375 cookies", "450 cookies"],
+                    "keywords": "50% more"
+                }
+            ]
+        },
+        {
+            "speaker": "Alvin",
+            "content": [
+                {"text": "The key to this question is the phrase'50% more'.", "type": "math-explanation"}
+            ]
+        },
+        {
+            "speaker": "Hao Xiang",
+            "content": [
+                {"text": "Exactly Alvin. In these types of questions, the phrases you will always see are: '50% more', '50% of', or '50% less'.", "type": "math-explanation"},
+                {"text": "Michelle, what is 50% of 150?", "type": "math-prompt"}
+            ]
+        },
+        {
+            "speaker": "Michelle",
+            "content": [
+                {"text": "$1/2 * 150 = 75$. But we don't want 'of.' We want 'more.'", "type": "math-explanation"}
+            ]
+        },
+        {
+            "speaker": "Hao Xiang",
+            "content": [
+                {"text": "Take the 75 that you just found, and add it on top of the original 150. That will give you 'more-than'.", "type": "math-explanation"}
+            ]
+        },
+        {
+            "speaker": "Michelle",
+            "content": [
+                {"text": "$75 + 150 = 225$ cookies.", "type": "answer-provider"},
+                {"text": "The final answer is $150 + 225 = 375$ cookies.", "type": "answer-finale"}
+            ]
+        }
+    ],
+    "homework": [
+        {
+            "question": [
+                {"text": "Michelle bakes 30% more cookies than Alvin, who bakes 30% less cookies than Hao Xiang.", "type": "math-question", "visual": "cookie-comparison-chart"},
+                {"text": "If Hao Xiang bakes 120 cookies, how many cookies do the three friends bake altogether?", "type": "math-question", "visual": "cookie-comparison-chart"}
+            ],
+            "answer": "393 cookies",
+            "choices": ["360 cookies", "393 cookies", "420 cookies", "450 cookies"],
+            "keywords": "20% less, 30% more"
+        },
+        {
+            "question": [
+                {"text": "Every day, Sam bakes 100% more cookies than the day before.", "type": "math-question", "visual": "daily-cookie-growth-chart"},
+                {"text": "On day 1, he bakes 2 cookies. How many cookies in total has he baked by day 10?", "type": "math-question", "visual": "daily-cookie-growth-chart"}
+            ],
+            "answer": "2046 cookies",
+            "choices": ["1024 cookies", "1536 cookies", "2046 cookies", "4092 cookies"],
+            "keywords": "100% more, daily growth"
+        }
+    ]
+}

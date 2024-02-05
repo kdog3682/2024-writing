@@ -1,0 +1,44 @@
+---
+title: Extra SHSAT Math Practice
+topic: Percentages
+speakers: Michelle, Alvin, Hao Xiang
+instructions: follow along as $speakers take you through the percentage questions. do write things down and highlight things and work through the practice problems
+prerequisite: 50% of 60
+---
+
+hi everyone, my name is al,
+
+my name is mch,
+
+and my name is hx.
+
+Today, we are going to review a percentage question called "more or less than" from the SHSAT. Michelle, please take it away!
+
+Q1
+
+ham bakes 50% more cookies than sam.
+if sam bakes 150 cookies, how many cookies do they bake together?
+
+
+the key to this question is "50% more." in these types of questions, the phrases to watch out for are always: "50% more", "50% of", or "50% less".
+
+Say $next, what is 50% of 150?
+
+1/2 * 150 = 75
+But we dont want of. we want more!
+
+
+so lets take the 75, and add it on top of the original 150. 
+
+75 + 150 = 225 cookies
+
+the final answer is 150 + 225 = 375 cookies
+
+
+homework:
+
+$1 bakes 20% less cookies than $2, who bakes 30% more cookies than $3.
+If $3 bakes 120 cookies, how many cookies do the 3 friends bake altogether?
+
+
+Every day, sam bakes 100% more cookies than the day before. on day 1, he bakes 2 cookies. how many cookies in total has he baked by day 10?
